@@ -1,0 +1,27 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198075362561",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "W42",
+				"lastlogoff": 1445860476,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198075362561/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fd/fda674b853e64be0cbdde4c557d96c1bc7eafd63.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fd/fda674b853e64be0cbdde4c557d96c1bc7eafd63_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fd/fda674b853e64be0cbdde4c557d96c1bc7eafd63_full.jpg",
+				"personastate": 2,
+				"realname": "Tima",
+				"primaryclanid": "103582791433341052",
+				"timecreated": 1352482819,
+				"personastateflags": 0,
+				"loccountrycode": "CA",
+				"locstatecode": "ON",
+				"loccityid": 4183
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198206942704",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "gurden CSGOLAIME.RU",
+				"lastlogoff": 1445872191,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198206942704/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ac/ac19dad6e604105198c4581afc0ed519423dbf53.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ac/ac19dad6e604105198c4581afc0ed519423dbf53_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ac/ac19dad6e604105198c4581afc0ed519423dbf53_full.jpg",
+				"personastate": 1,
+				"primaryclanid": "103582791438178232",
+				"timecreated": 1421749140,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

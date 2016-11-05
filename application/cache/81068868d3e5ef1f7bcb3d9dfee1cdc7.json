@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198111898504",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "TochiJlka CSGOLAIME.RU",
+				"lastlogoff": 1445549834,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/mrkillshift/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b4/b44b3a8759d4126d5974fa87633ada6ddacad040.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b4/b44b3a8759d4126d5974fa87633ada6ddacad040_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b4/b44b3a8759d4126d5974fa87633ada6ddacad040_full.jpg",
+				"personastate": 0,
+				"primaryclanid": "103582791438110050",
+				"timecreated": 1382548552,
+				"personastateflags": 0,
+				"loccountrycode": "CN"
+			}
+		]
+		
+	}
+}

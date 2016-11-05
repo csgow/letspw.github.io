@@ -1,0 +1,23 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198128647659",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Certer CSGOCHANCES.RU",
+				"lastlogoff": 1445590226,
+				"profileurl": "http://steamcommunity.com/profiles/76561198128647659/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62bcfd8dbd0de21466070bd9a1336ee89b61d655.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62bcfd8dbd0de21466070bd9a1336ee89b61d655_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62bcfd8dbd0de21466070bd9a1336ee89b61d655_full.jpg",
+				"personastate": 0,
+				"realname": "-",
+				"primaryclanid": "103582791438141218",
+				"timecreated": 1393947235,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

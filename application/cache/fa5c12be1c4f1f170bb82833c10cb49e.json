@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198180091006",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "|V| Napalm",
+				"lastlogoff": 1445692404,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198180091006/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/67f65b950ffe460d7922c4827eb55183930233fc.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/67f65b950ffe460d7922c4827eb55183930233fc_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/67f65b950ffe460d7922c4827eb55183930233fc_full.jpg",
+				"personastate": 3,
+				"realname": "Valdemar",
+				"primaryclanid": "103582791429521408",
+				"timecreated": 1424159817,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198116461981",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Hustle Hard Flava",
+				"lastlogoff": 1445856278,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/Jeka86region/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f09d65907413df7332c77110682ae127bf92ac2.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f09d65907413df7332c77110682ae127bf92ac2_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3f09d65907413df7332c77110682ae127bf92ac2_full.jpg",
+				"personastate": 2,
+				"realname": "Евгений",
+				"primaryclanid": "103582791439798565",
+				"timecreated": 1385804672,
+				"personastateflags": 0,
+				"loccountrycode": "RU",
+				"locstatecode": "32",
+				"loccityid": 41368
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198223038660",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "[F2]",
+				"lastlogoff": 1445862066,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198223038660/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4ac38e4123cb10868fccd614b1e3dd642ebc8397.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4ac38e4123cb10868fccd614b1e3dd642ebc8397_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4ac38e4123cb10868fccd614b1e3dd642ebc8397_full.jpg",
+				"personastate": 1,
+				"realname": "Артем",
+				"primaryclanid": "103582791439251123",
+				"timecreated": 1428674123,
+				"personastateflags": 0,
+				"loccountrycode": "RU",
+				"locstatecode": "58",
+				"loccityid": 40949
+			}
+		]
+		
+	}
+}

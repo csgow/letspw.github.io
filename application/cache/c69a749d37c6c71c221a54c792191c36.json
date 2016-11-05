@@ -1,0 +1,26 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561197997906788",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "DaspeR",
+				"lastlogoff": 1445561278,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/dasper/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/9137011d22038eaf8a00d8abc04a8a5fda38e587.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/9137011d22038eaf8a00d8abc04a8a5fda38e587_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/9137011d22038eaf8a00d8abc04a8a5fda38e587_full.jpg",
+				"personastate": 1,
+				"realname": "Александр \"DaspeR\" Шевченко",
+				"primaryclanid": "103582791440085103",
+				"timecreated": 1207836209,
+				"personastateflags": 0,
+				"loccountrycode": "UA",
+				"locstatecode": "12"
+			}
+		]
+		
+	}
+}

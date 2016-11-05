@@ -1,0 +1,20 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198157523168",
+				"communityvisibilitystate": 1,
+				"profilestate": 1,
+				"personaname": "CSGOULTRASKINUP.ru",
+				"lastlogoff": 1445571168,
+				"commentpermission": 2,
+				"profileurl": "http://steamcommunity.com/id/botusu/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/399ee8ab7473bd2371a4e487651f00b99b0aeab4.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/399ee8ab7473bd2371a4e487651f00b99b0aeab4_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/399ee8ab7473bd2371a4e487651f00b99b0aeab4_full.jpg",
+				"personastate": 0
+			}
+		]
+		
+	}
+}

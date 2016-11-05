@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198211470004",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Malreo Z-SKINS.RU",
+				"lastlogoff": 1445637408,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198211470004/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a3/a351c68a4d6d1d6b247cccf40caefb2c102e2053.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a3/a351c68a4d6d1d6b247cccf40caefb2c102e2053_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a3/a351c68a4d6d1d6b247cccf40caefb2c102e2053_full.jpg",
+				"personastate": 0,
+				"realname": "csgobot0001",
+				"primaryclanid": "103582791429521408",
+				"timecreated": 1423890846,
+				"personastateflags": 0,
+				"loccountrycode": "AX"
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198106936168",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "JoDunx",
+				"lastlogoff": 1445618470,
+				"commentpermission": 2,
+				"profileurl": "http://steamcommunity.com/id/rostik0114/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/3023e43df6a37e11e2792ef1e5456000bffc3394.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/3023e43df6a37e11e2792ef1e5456000bffc3394_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/3023e43df6a37e11e2792ef1e5456000bffc3394_full.jpg",
+				"personastate": 1,
+				"realname": "Ростик",
+				"primaryclanid": "103582791432738777",
+				"timecreated": 1379016928,
+				"personastateflags": 512,
+				"loccountrycode": "UA"
+			}
+		]
+		
+	}
+}

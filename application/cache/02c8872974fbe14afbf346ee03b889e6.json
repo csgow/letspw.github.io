@@ -1,0 +1,20 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198016386261",
+				"communityvisibilitystate": 1,
+				"profilestate": 1,
+				"personaname": "野雞CSGOTINKY.RU",
+				"lastlogoff": 1445589897,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/fa3ah/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d73b0a4b393b907f8d91c03db71fc9aa7b6af900.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d73b0a4b393b907f8d91c03db71fc9aa7b6af900_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d73b0a4b393b907f8d91c03db71fc9aa7b6af900_full.jpg",
+				"personastate": 0
+			}
+		]
+		
+	}
+}

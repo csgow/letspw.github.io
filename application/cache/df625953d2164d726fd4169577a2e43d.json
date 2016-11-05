@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198253628608",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "IM NO SILVER",
+				"lastlogoff": 1445773251,
+				"profileurl": "http://steamcommunity.com/id/12345lucky12345/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef02aea24a5bcd27c385182375b1a07c44b0abaa.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef02aea24a5bcd27c385182375b1a07c44b0abaa_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef02aea24a5bcd27c385182375b1a07c44b0abaa_full.jpg",
+				"personastate": 1,
+				"realname": "Артём",
+				"primaryclanid": "103582791429521408",
+				"timecreated": 1443952121,
+				"personastateflags": 0,
+				"loccountrycode": "KZ"
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198079019275",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "yaGG4 CSGOLAIME.RU",
+				"lastlogoff": 1445891014,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/YAAAZHKA/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/360828ac810b04d84cf81748e5ee7d9d5681b1b2.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/360828ac810b04d84cf81748e5ee7d9d5681b1b2_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/360828ac810b04d84cf81748e5ee7d9d5681b1b2_full.jpg",
+				"personastate": 1,
+				"primaryclanid": "103582791432320563",
+				"timecreated": 1356173183,
+				"personastateflags": 0,
+				"loccountrycode": "FR",
+				"locstatecode": "B2"
+			}
+		]
+		
+	}
+}

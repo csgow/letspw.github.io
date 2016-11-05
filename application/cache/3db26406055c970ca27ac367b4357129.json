@@ -1,0 +1,26 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198162998971",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Жесткий",
+				"lastlogoff": 1445582209,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198162998971/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/45/45dc882e3a3e1e610903b52a4006572be2afc7dd.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/45/45dc882e3a3e1e610903b52a4006572be2afc7dd_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/45/45dc882e3a3e1e610903b52a4006572be2afc7dd_full.jpg",
+				"personastate": 1,
+				"realname": "Bob",
+				"primaryclanid": "103582791439100265",
+				"timecreated": 1415787443,
+				"personastateflags": 0,
+				"gameextrainfo": "Counter-Strike: Global Offensive",
+				"gameid": "730"
+			}
+		]
+		
+	}
+}

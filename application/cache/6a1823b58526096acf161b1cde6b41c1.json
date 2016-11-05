@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198128418368",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "rinkilka",
+				"lastlogoff": 1445705428,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/blablk2/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/12/12eb3490073431dd2f351094ff9f0d5ce485ba43.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/12/12eb3490073431dd2f351094ff9f0d5ce485ba43_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/12/12eb3490073431dd2f351094ff9f0d5ce485ba43_full.jpg",
+				"personastate": 1,
+				"realname": "влад",
+				"primaryclanid": "103582791432738777",
+				"timecreated": 1393753501,
+				"personastateflags": 0,
+				"loccountrycode": "BY"
+			}
+		]
+		
+	}
+}

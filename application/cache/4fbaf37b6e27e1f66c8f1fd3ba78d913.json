@@ -1,0 +1,27 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198125707796",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "IvA22",
+				"lastlogoff": 1445856185,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/iva22ko/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5f/5f3beb30b98cc077f1993b48bb8c5e06d2d93d4f.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5f/5f3beb30b98cc077f1993b48bb8c5e06d2d93d4f_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5f/5f3beb30b98cc077f1993b48bb8c5e06d2d93d4f_full.jpg",
+				"personastate": 1,
+				"realname": "Vlad Ivash",
+				"primaryclanid": "103582791434670817",
+				"timecreated": 1391844064,
+				"personastateflags": 0,
+				"loccountrycode": "UA",
+				"locstatecode": "13",
+				"loccityid": 46118
+			}
+		]
+		
+	}
+}

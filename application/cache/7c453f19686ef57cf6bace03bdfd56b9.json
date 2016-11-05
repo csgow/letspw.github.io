@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198098084418",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "h4zet #badteameverytime",
+				"lastlogoff": 1445876608,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/H4zeZ/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e3/e303fc0ef30427dba76700f6fe0b9deaa520b0b3.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e3/e303fc0ef30427dba76700f6fe0b9deaa520b0b3_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e3/e303fc0ef30427dba76700f6fe0b9deaa520b0b3_full.jpg",
+				"personastate": 1,
+				"realname": "Kirill",
+				"primaryclanid": "103582791438799401",
+				"timecreated": 1373887790,
+				"personastateflags": 0,
+				"loccountrycode": "SK"
+			}
+		]
+		
+	}
+}

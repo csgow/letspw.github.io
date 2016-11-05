@@ -1,0 +1,20 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198160786266",
+				"communityvisibilitystate": 1,
+				"profilestate": 1,
+				"personaname": "Itachi Uchiha",
+				"lastlogoff": 1445584985,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/ItachiUchihaCS/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a5/a52f2aa56ea5879157ada347708f2ff153b1f008.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a5/a52f2aa56ea5879157ada347708f2ff153b1f008_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a5/a52f2aa56ea5879157ada347708f2ff153b1f008_full.jpg",
+				"personastate": 0
+			}
+		]
+		
+	}
+}
